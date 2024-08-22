@@ -5,5 +5,8 @@ export default {
   theme: {
     extend: {},
   },
+  fontFamily: {
+    sans: ['noto-sans']
+  },
   plugins: [],
 } satisfies Config;
